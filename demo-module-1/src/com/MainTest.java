@@ -7,6 +7,6 @@ package com;
  */
 public class MainTest {
     public static void main(String[] args) {
-        System.out.println("我是更行过后的git代码");
+        System.out.println("helloGit!");
     }
 }
